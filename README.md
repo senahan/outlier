@@ -1,0 +1,3 @@
+# Aykırı değer
+
+İstatistik çalışmaların en önemli unsurlarından biri verilerin normal dağılımlı olup olmadığıdır. Dağılışın normal olması beklenen veri setlerinin normal dağılış göstermemesi durumunda ilk akla gelen nedenlerden biri de aykırı gözlemlerin varlığıdır. Aykırı gözlemler, veri setinin ortalamasının çok uzağa düşen gözlem olarak ifade edilir. Bu değerler, bir tane olabileceği gibi birden fazla da olabilir. Bu değerler, verilerin standart sapmasını arttırmanın dışında, dağılımın şeklini de değiştirebilir ve istatistik karar süreci sonucunda hatalı kararlar verilmesine neden olabilirler. Bu çalışmada aykırı gözlemlerin belirlenmesi için bazı yöntemler incelenecektir.
