@@ -1,49 +1,6 @@
 ---
 output: html_document
 ---
-<p><font  size="10" >
-<div align="center"><p><b>![](https://i.pinimg.com/originals/65/03/cd/6503cdb87590318a328d3a53cb02b491.png)</b></font></p></p></div>
-
-<p><font  size="8" >
-<div align="center"><p><b>HACETTEPE ÜNİVERSİTESİ</b></font></p></p> </div>  
-<br /> 
-<br /> 
-<br /> 
-<p><font  size="6" >
-<p><b>**FEN FAKÜLTESİ**</b></font></p></p>
-<br /> 
-<p><font  size="5" >
-<p><b>**İSTATİSTİK BÖLÜMÜ**</b></font></p></p>
-<br /> 
-<br /> 
-<br /> 
-<p><font  size="4" >
-<p><b>**DERSİN ADI: İSTATİSTİKSEL ANALİZ UYGULAMALARI**</b></font></p></p>
-<br /> 
-<p><font  size="4" >
-<p><b>**DERS SORUMLUSU: Dr.Öğr.Üyesi ONUR TOKA**</b></font></p></p>
-<br /> 
-<br /> 
-<br /> 
-<br />
-<p><font  size="3" >
-<p><b>**AD SOYAD: SENAHAN YEŞİLDAĞ**</b></font></p></p>
-<p><font  size="3" >
-<p><b>**NO: 21822293**</b></font></p></p>
-<br /> 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 # İÇİNDEKİLER
 
